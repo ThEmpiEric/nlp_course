@@ -1,0 +1,214 @@
+video_id,title,query
+3foYyPDp0Ho,"Summer of Math Exposition #4 | Teachers, I'd love to hear from you",How to learn how the community of mathematicians works
+Dlsa9EBKDGI,Where my explanation of Grover’s algorithm failed,quantum algorithms 
+RQWpF2Gb-gU,But what is quantum computing?  (Grover's Algorithm),quantum computing
+XX8mjBXBqz8,Testing your intuition for quantum computing, quantum computing 
+aQwEJKWATlE,How to measure nearby galaxies,distances between galaxies
+aw-8BhCilj0,Measuring the distance to Venus without radar,distances between planets
+M6LUPYsjods,Measuring the speed of light using Jupiter's moons
+mHya9J9pkq4,The tragic tale of Guillaume Le Gentil,Tajican stories of scientists
+C8baNzpnZ7o,Zooming out by powers of 10,galaxies
+6dTyOl1fmDo,There's more to those colliding blocks that compute pi,calculation of pi
+TZAC0WFemvE,When being beautifully wrong leads to discovery,Keppler astronomy
+YP1mMXRCnaI,Why the ancient Greeks rejected heliocentrism,heliocentrism
+gzbFNnTCkqQ,How to estimate the distance to the sun,distance between the Earth and the Sun
+drmphB3rdHY,How Aristarchus deduced the distance to the moon,first estimates of the distance to the moon
+hFMaT9oRbs4,How to measure the universe | The Cosmic Distance Ladder Part 2,how to measure astronomical things
+9s0srZneJ38,How Earth's size was computed by Eratosthenes,first astronomical measurements
+YdOXS_9_P4U,Terence Tao on how we measure the cosmos | The Distance Ladder Part 1,how to measure the universe
+uT4-WVa-YfU,Measuring the earth with Terence Tao,how to measure the universe
+K-pGGb0f3tc,The topology of two-note chords,music and mathematics
+0TdBP9m4R74,The barber pole optical mystery,optical experiments
+zxOK2vKVfQM,Monge's Theorem,geometry puzzle
+DgMhayP2NPU,Thinking through double slits,quantum experiments
+LuVUnd0C07U,The inscribed square problem,geometric problems
+IQqtsm-bBRU,This open problem taught me what topology is,topology
+y9BK--OxZpY,The meaning within the Mandelbrot set,fractals
+qSn8dVI9V5I,The scale of training LLMs,LLMs training
+LPZh9BOjkQs,Large Language Models explained briefly,LLMs 
+nAT-MCsJeik,This puzzle is trickier than it seems,geometric problems
+EPDZTLavmcg,Sphere surface area proof sketch,visualizations of geometry
+LOulCFdVOGY,Newton’s Fractal is beautiful,fractal beauty
+JNVZK4ofW-Y,The Triangle Of Power,Alternate notation for powers
+0W243LGSJFU,The twirling tiles puzzle,geometry puzzle
+Pny70rNPJLk,A bizarre probability fact,implications of the central limit theorem
+piJkuavhV50,Five puzzles for thinking outside the box,geometry puzzles
+KHEtJUlpqcg,LLMs are next-word predictors,language models
+rbu7Zu5X1zI,How I animate 3Blue1Brown | A Manim demo with Ben Sparks,programming animations
+W3-kpRz-e1Q,Hologram preview,more optical experiments
+DnjATyPuFFk,Holograms are wild (full video linked above),optical experiment
+EmKQsSDlaa4,How are holograms possible?,holograms
+9-Jl0dxWQs8,How might LLMs store facts | DL7,storage in the llms
+rjVY7HXN6qA,In the vector space of all advice...,linear algebra topics
+W3I3kAg2J7w,What &quot;Follow Your Dreams&quot; Misses | Harvey Mudd Commencement Speech 2024,motivational 
+XsLK3tPy9SI,Temperature in LLMs,stochasticity in LLMs
+FJtFZwbvkI4,How word vectors encode meaning,word vectors
+eMlx5fFNoYc,"Attention in transformers, step-by-step | DL6",attention in transformers
+wjZofJX0v4M,Transformers (how LLMs work) explained visually | DL5,transformers
+81QNyDnYtg0,Simulating the electric field and a moving charge,electric fields
+-ikRg-OfFHc,A challenging puzzle about subset sums,Olympiad problems
+-3jPW_TGATI,"Ellipses have multiple definitions, how are these the same?",definition of ellipse
+w-CXIqIjfRI,Three levels of understanding Bayes' theorem,important theorems in probability
+xIMlJUwB1m8,The medical test paradox (well &quot;paradox&quot;),paradoxes
+IstyL9vnybg,"Positioned as the hardest question on a Putnam exam  (#6, 1992)",Olympiad problems 
+DWnb2UUlqd0,Why does light slowing imply a bend? (Beyond the tank/car analogy),Huygens-Fresnel construction
+U3O1nzSojnc,The cube shadow puzzle,What's the average area of a cube's shadow?
+XIW-2ykgVPI,What does it mean that light &quot;slows down&quot; in glass?,ligth wave
+vItzPPpNXEs,Why do we call them &quot;scalars&quot;?,Linear algebra topics
+teYL0Er4c3g,A beautiful international math olympiad problem,Olympiad problems
+BTryyW7gqg4,"Definition of a &quot;bit&quot;, in information theory",bit
+kpG7I2MOcnI,The Newton art puzzle,art with math
+3KbiJ-z0j44,What is a group?,group theory
+R1e7aHBKLnM,How to derive a formula for π,pi
+tjIOqIr80ns,The limit of limiting arguments,curiosities about pi
+W1gW1dHRsOw,For anyone who might not know how links in shorts work,links
+p9i3cYMQtBY,Infinite Lighthouses and π,pi
+X4jpqCu-wlA,Can you even imagine 2^256?,constant e
+GOSezO0CHss,Order from chaos,chaos theory
+TaopSi3Ucfc,A short on shorts,Mandelbrot
+BIbHGfdjc_g,A pretty way to add weighted dice,probability facts
+4xWpQe3G9qI,A simple image convolution,image processing
+VS9yOhwtVDY,"These integrals all equal π, until...",series about pi
+Cm-zmm0nANo,The split necklace puzzle (with a surprise topological solution),geometry puzzles
+yZMw2rOKYwE,Error correction is incredible,error correction codes
+NQFIU5Exjuo,The chessboard and coins puzzle,An information puzzle with
+h2V3r7oBeMI,Prime spirals,prime numbers
+31xm81m0iYs,The barber pole effect,The barber pole effect of shining polarized light into sugar water.
+nXIHYB0Gp70,Fourier series,Fourier transformation
+1tLvj_HSjPk,Seeing with sound,music and mathematics
+GSIuXqgPsnY,How prisms work (full video linked above),short about prisms
+VFbyGEZLMZw,Don't let it fool you!,short geometric puzzles
+P11ykXwx4-k,I'm still astounded this is true,Obtain pi by physical simulation
+Cz4Q4QOuoo8,Answering viewer questions about refraction,refraction
+KTzGBJPuJwM,But why would light &quot;slow down&quot;? | Visualizing Feynman's lecture on the refractive index,Feynman lectures
+6a1fLEToyvU,25 Math explainers you may enjoy | SoME3 results,pixel art
+aXRTczANuIs,How wiggling charges give rise to light,Explaining the barber pole effect
+QCX62YJCmGk,This tests your understanding of light | The barber pole effect,Explaining the barber pole effect
+d_qvLDhkg00,A pretty reason why Gaussian + Gaussian = Gaussian,Gaussian distribution
+YtkIWDE36qU,"This pattern breaks, but for a good reason | Moser's circle problem",Problems with circles
+NOCsdhzo6Jg,How They Fool Ya (live) | Math parody of Hallelujah,live and music  
+IaSGqQa5O-M,Convolutions | Why X+Y in probability is a beautiful mess,Convolutions
+cy8r7WSuT1I,Why π is in the normal distribution (beyond integral tricks),normal distribution
+zeJD6dqJ5lo,But what is the Central Limit Theorem?,Central Limit Theorem
+KuXjwB4LzSA,But what is a convolution?,convolutions and animations
+851U557j6HE,Researchers thought this was a bug (Borwein integrals),understanding the convolutions
+cDofhN-RJqg,What makes a great math explanation? | SoME2 results,skills in math
+VYQVlVoWoPY,How to lie using visual proofs,trolling with probability
+bOXCLR3Wric,Olympiad level counting  (Generating functions),Olympiad problems
+fRed0Xmc2Wg,"Oh, wait, actually the best Wordle opener is not “crane”…",information theory
+v68zYyaEmEA,Solving Wordle using information theory,information theory
+ltLUadnCyi0,A tale of two problem solvers | Average cube shadow area,full understanding about one paradox problem
+F3Qixy-r_rQ,2021 Summer of Math Exposition results,projects in math 
+LqbZpur38nw,"Beyond the Mandelbrot set, an intro to holomorphic dynamics",beauty fractals
+-RdOwhmqP5s,Newton’s fractal (which Newton knew nothing about),fractal graphics
+ojjzXyQCzso,Make math videos! | Summer of Math Exposition announcement,math for everyone
+e50Bj7jn9IQ,"A quick trick for computing eigenvalues | Chapter 15, Essence of linear algebra",eigenvalues and linear algebra
+O85OWBJ2ayo,How (and why) to raise e to the power of a matrix | DE6,matrix tricks
+lG4VkPoG3ko,"The medical test paradox, and redesigning Bayes' rule",Bayes' rule
+b3NxrZOu_CE,Hamming codes part 2: The one-line implementation,code of error correction
+X8jsijhllIA,But what are Hamming codes? The origin of error correction,error correction
+mH0oCDa74tE,"Group theory, abstraction, and the 196,883-dimensional monster",group theory
+wTJI_WuZSwE,The impossible chessboard puzzle,math puzzles
+QvuQH4_05LI,Tips to be a better problem solver [Last live lecture] | Ep. 10 Lockdown live math,math tips
+pq9LcwC7CoY,Intuition for i to the power i | Ep. 9 Lockdown live math,powers
+D__UaR5MQao,The DP-3T algorithm for contact tracing (with Nicky Case),covid-19
+elQVZLLiod4,The power tower puzzle | Ep. 8 Lockdown live math,power tower
+4PDoT7jtxmw,What makes the natural log &quot;natural&quot;? | Ep. 7 Lockdown live math,logarithms
+cEvgcoyZvB4,Logarithm Fundamentals | Ep. 6 Lockdown live math,logarithms
+IAEASE5GjdI,Imaginary interest rates | Ep. 5 Lockdown live math,Complex numbers
+ZxYOEwM6Wbk,What is Euler's formula actually saying? | Ep. 4 Lockdown live math,Euler's formula
+5PcpBw5Hbwo,Complex number fundamentals | Ep. 3 Lockdown live math,Complex numbers
+yBw67Fb31Cs,Trigonometry fundamentals | Ep. 2 Lockdown live math,Trigonometry
+MHXO86wKeDY,The simpler quadratic formula | Ep. 1 Lockdown live math,quadratic equations
+ppWPuXsnf1Q,Lockdown math announcement,announcements
+ZA4JkHKZM50,"Why “probability of 0” does not mean “impossible” | Probabilities of probabilities, part 2",probability
+gxAaO2rsdIs,Simulating an epidemic,epidemics
+8idr1WZ1A7Q,"Binomial distributions | Probabilities of probabilities, part 1",distributions
+Kas0tIxDvrg,Exponential growth and epidemics,Exponentialdistribution
+U_85TaXbeIo,The quick proof of Bayes' theorem,Bayes' theorem
+HZGCoVF3YvM,"Bayes theorem, the geometry of changing beliefs",Bayes' theorem
+Agbh95KyWxY,"Q&amp;A with Grant, windy walk edition",about me
+EK32jo7i5LQ,Why do prime numbers make these spirals? | Dirichlet’s theorem and pi approximations,prime numbers
+M64HUIJFTZM,"The unexpectedly hard windmill question (2011 IMO, Q2)",olympiad problems
+v0YEaeIClKY,"e^(iπ) in 3.14 minutes, using dynamics | DE5",euler's formula
+-qgreAUpPwM,Pure Fourier series animation montage,Fourier series
+r6sGWTCMz2k,But what is a Fourier series?  From heat flow to drawing with circles | DE4,Fourier series
+ToIXSwZ1pJU,Solving the heat equation | DE3,heat equations
+ly4S0oi3Yz8,But what is a partial differential equation?  | DE2,partial differential equations
+p_di4Zn4wz4,"Differential equations, a tourist's guide | DE1",differential equations
+jBsC34PxzoM,"Cramer's rule, explained geometrically | Chapter 12, Essence of linear algebra",linear algebra
+brU5yLm9DZM,How colliding blocks act like a beam of light...to compute pi.,pi
+HEfHFsfGXjs,The most unexpected answer to a counting puzzle,pi series
+GNcFjFmqEc8,But why is a sphere's surface area four times its shadow?
+yuVqxCSsE7c,Using topology for discrete problems | The Borsuk-Ulam theorem and stolen necklaces,topology
+_UoTTq651dE,Why 5/3 is a fundamental constant for turbulence,physics of turbulence
+zjMuIxRvygQ,"Quaternions and 3d rotation, explained interactively",quaternions
+d4EgbgTm0Bg,Visualizing quaternions (4d numbers) with stereographic projection,quaternions visualization
+Qe6o9j4IjTo,Q&amp;A with Grant Sanderson (3blue1brown),about me 
+pQa_tWZmlGs,Why slicing a cone gives an ellipse (beautiful proof),ellipses
+VcgJro0sTiM,Other math channels you'd enjoy,community
+rB83DpBJQsE,"Divergence and curl:  The language of Maxwell's equations, fluid flow, and more",Maxwell's equations
+CfW845LNObM,"The other way to visualize derivatives | Chapter 12, Essence of calculus",derivatives
+8GPy_UMV-08,"The Wallis product for pi, proved geometrically",series to obtain the number pi
+b7FxPsqfkOY,Winding numbers and domain coloring,An algorithm for numerically solving certain 2d equations
+bcPTiiiYDs8,How pi was almost 6.283185...,fun facts about pi
+d-o3eB9sfls,Why is pi here?  And why is it squared?  A geometric answer to the Basel problem,pi in other fields
+MBnnXbOM5S4,"The more general uncertainty principle, regarding Fourier transforms",The meaning of the uncertainty principle
+spUNpyF58BY,But what is the Fourier Transform?  A visual introduction.,understanding Fourier transforms
+VvCytJvd4H0,Why this puzzle is impossible,math puzzles
+liL66CApESk,Q&amp;A #2 + Net Neutrality Nuance,Net Neutrality
+OkmNXy7er84,The hardest problem on the hardest test,A difficult Putnam question 
+tIeHLnjs5U8,Backpropagation calculus | DL4,fundamentals of deep learning
+Ilg3gGewQ5U,"Backpropagation, intuitively | DL3",deep learning
+IHZwWFHWa-w,"Gradient descent, how neural networks learn | DL2",fundamentals of machine learning
+aircAruvnKk,But what is a neural network? | Deep learning chapter 1,fundamentals of machine learning and deep learning
+MzRCDLre1b4,Some light quantum mechanics (with minutephysics),quantum mechanics
+zwAD6dRSVyI,Thinking outside the 10-dimensional box,understanding the topology of the universe
+3s7h2MHQtxc,Hilbert's Curve: Is infinite math useful?,the connection between infinite and finite math
+S9JGmA5_unY,How secure is 256 bit security?,cryptography
+bBC-nXj3Ng4,But how does bitcoin actually work?,bitcoin
+QJYmyhnaaek,"All possible pythagorean triples, visualized",Pythagorean triples
+NaL_Cb42WyY,Pi hiding in prime regularities
+3d6DsjIBzJ4,"Taylor series | Chapter 11, Essence of calculus"
+BLkz5LGWihw,"Higher order derivatives | Chapter 10, Essence of calculus"
+FnJqaIESC2s,"What does area have to do with slope? | Chapter 9, Essence of calculus"
+rfG8ce4nNh0,"Integration and the fundamental theorem of calculus | Chapter 8, Essence of calculus"
+kfF40MiS7zA,"Limits, L'Hôpital's rule, and epsilon delta definitions | Chapter 7, Essence of calculus"
+qb40J4N1fa4,"Implicit differentiation, what's going on here? | Chapter 6, Essence of calculus"
+m2MIpDrF7Es,"What's so special about Euler's number e? | Chapter 5, Essence of calculus"
+YG15m2VwSjA,"Visualizing the chain rule and product rule | Chapter 4, Essence of calculus"
+S0_qX4VJhMQ,"Derivative formulas through geometry | Chapter 3, Essence of calculus"
+9vKqVkMQHKk,"The paradox of the derivative | Chapter 2, Essence of calculus"
+WUvTyaaNkzM,The essence of calculus
+mvmuCPvRoWQ,Euler's formula with introductory group theory
+gB9n2gHsHN4,Fractals are typically not self-similar
+IxNb1WG_Ido,Tattoos on Math
+sD0NjbwqlYw,But what is the Riemann zeta function? Visualizing analytic continuation
+bdMfjfT0lKk,"Binary, Hanoi, and Sierpinski, part 2"
+2SUvWfNJSsM,"Binary, Hanoi and Sierpinski, part 1"
+R7p-nPg8t_g,3blue1brown channel trailer
+AmgkSdhK4K8,Who cares about topology?   (Old version)
+TgKwz5Ikpc8,"Abstract vector spaces | Chapter 16, Essence of linear algebra"
+PFDu9oVAE-g,"Eigenvectors and eigenvalues | Chapter 14, Essence of linear algebra"
+P2LTAUO1TdA,"Change of basis | Chapter 13, Essence of linear algebra"
+BaM7OCEm3G0,"Cross products in the light of linear transformations | Chapter 11, Essence of linear algebra"
+eu6i7WJeinw,"Cross products | Chapter 10, Essence of linear algebra"
+LyGKycYT2v0,"Dot products and duality | Chapter 9, Essence of linear algebra"
+v8VSDg_WQlA,"Nonsquare matrices as transformations between dimensions | Chapter 8, Essence of linear algebra"
+uQhTuRlWMxw,"Inverse matrices, column space and null space | Chapter 7, Essence of linear algebra"
+Ip3X9LOh2dk,"The determinant | Chapter 6, Essence of linear algebra"
+rHLEWRxRGiM,"Three-dimensional linear transformations | Chapter 5, Essence of linear algebra"
+XkY2DOUCWMU,"Matrix multiplication as composition | Chapter 4, Essence of linear algebra"
+kYB8IZa5AuE,"Linear transformations and matrices | Chapter 3, Essence of linear algebra"
+k7RM-ot2NWY,"Linear combinations, span, and basis vectors | Chapter 2, Essence of linear algebra"
+fNk_zzaMoSs,"Vectors | Chapter 1, Essence of linear algebra"
+kjBOesZCoqc,Essence of linear algebra preview
+sULa9Lc4pck,Triangle of Power
+Iq1a_KJTWJ8,Snell's law proof using springs
+Cld0p3a43fU,"The Brachistochrone, with Steven Strogatz"
+RU0wScIj36o,Fractal charm: Space filling curves
+cyW5z-M2yzw,Music And Measure Theory
+1SMmc9gQmHQ,How to count to 1000 on two hands
+XFDM1ip5HdU,What does it feel like to invent math?
+-9OUyo8NFZg,Euler's Formula and Graph Duality
+F_0yfvm0UoU,"e to the pi i, a nontraditional take (old version)"
