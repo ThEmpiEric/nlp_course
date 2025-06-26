@@ -9,5 +9,3 @@ Este repositorio contiene mis soluciones propuestas para la materia de NLP impar
 
 
 ---
-
- 🚀
